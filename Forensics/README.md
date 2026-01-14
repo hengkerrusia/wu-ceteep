@@ -3,3 +3,6 @@ i doing writeup (picoCTF) for my great team KELAPASAWITH, so check it out, maybe
 - Hidden in plainsight.pdf
 - Riddle Registry.pdf
 - Flame in Fire
+- Corrupted file
+- Disko 1
+- RED
