@@ -18,4 +18,4 @@ EASY
 
 MEDIUM
 
-- 
+- Disko 3
