@@ -19,3 +19,5 @@ EASY
 MEDIUM
 
 - Disko 3
+- Disko 2
+- Event Viewing
